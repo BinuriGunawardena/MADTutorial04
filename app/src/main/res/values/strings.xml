@@ -11,4 +11,10 @@
     <string name="answer01">Answer</string>
     <string name="txt01">Text View</string>
     <string name="button05">BACK</string>
+    <string name="email01">E-mail</string>
+    <string name="email02">E-mail</string>
+    <string name="pw1">Enter Password</string>
+    <string name="pw2">Re-enter Password</string>
+    <string name="btn1">SUBMIT</string>
+    <string name="btn2">CANCEL</string>
 </resources>
